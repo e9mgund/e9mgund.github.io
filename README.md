@@ -1,1 +1,1 @@
-This repository contains all the assignments done by me in the training program.
+This repository contains the journal / log about each day.
